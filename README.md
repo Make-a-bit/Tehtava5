@@ -4,7 +4,7 @@ A: Erittele keskeiset osat koodista, jotka toimivat yhdessä. Esimerkiksi Produc
 	- Views kansion sisältö (sivut)
   - HomeController
   - products.json
-	- product.cs
+  - product.cs
   - site.js
   - site.css
 
