@@ -1,7 +1,8 @@
 # WebApplication2 / Tehtävä 5
 
 A: Erittele keskeiset osat koodista, jotka toimivat yhdessä. Esimerkiksi ProductController.cs, products.json ja Product.cshtml
-	- Views kansion sisältö (sivut)
+
+  - Views kansion sisältö (sivut)
   - HomeController
   - products.json
   - product.cs
